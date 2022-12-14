@@ -184,7 +184,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document9]
-DocumentPath=..\..\..\..\..\Hardware\AAAA_PPPP_PCBs\Dride4K_GPS_Card_Spacer\dride4K_GPS_cards_spacer.PrjPcb
+DocumentPath=dride4K_0.7_Assembly.MbaDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
