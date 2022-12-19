@@ -1,0 +1,33 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Dride4K_rev07.PrjPcb]
+   Generated File[dride4K_07.GTO]
+   Generated File[dride4K_07.GTP]
+   Generated File[dride4K_07.GTS]
+   Generated File[dride4K_07.GTL]
+   Generated File[dride4K_07.G1]
+   Generated File[dride4K_07.G2]
+   Generated File[dride4K_07.G3]
+   Generated File[dride4K_07.G4]
+   Generated File[dride4K_07.G5]
+   Generated File[dride4K_07.G6]
+   Generated File[dride4K_07.GBL]
+   Generated File[dride4K_07.GBS]
+   Generated File[dride4K_07.GBP]
+   Generated File[dride4K_07.GBO]
+   Generated File[dride4K_07.GM3]
+   Generated File[dride4K_07.GM4]
+   Generated File[dride4K_07.GKO]
+   Generated File[dride4K_07.GPT]
+   Generated File[dride4K_07.GPB]
+   Generated File[dride4K_07.GD1]
+   Generated File[dride4K_07.GG1]
+   Generated File[dride4K_07.RUL]
+   Generated File[dride4K_07.EXTREP]
+   Generated File[dride4K_07.REP]
+
+
+Files Generated   : 24
+Documents Printed : 0
+
+Finished Output Generation At 7:29:53 PM On 12/15/2022
