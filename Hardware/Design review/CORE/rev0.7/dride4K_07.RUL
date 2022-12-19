@@ -1,0 +1,6 @@
+DRC Rules Export File for PCB: D:\Dride_Office_Share\Hardware\AAAA_PPPP_PCBs\dride4K-HW\PCB\dride4k_rev07\dride4K_07.PcbDoc
+RuleKind=Clearance|RuleName=Clearance_1|Scope=Board|Minimum=3.50
+RuleKind=Clearance|RuleName=Clearance_50OHM|Scope=Board|Minimum=4.50
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=1.97
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=3.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
