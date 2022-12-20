@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: LTE_REV05.PcbDoc   12/20/2022  8:56:08 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : L1 to L6
+ASCII RoundHoles File : LTE_REV05-RoundHoles.TXT
+ASCII SlotHoles File : LTE_REV05-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.254mm (10mil)                                           Round             630       PTH        1063.51mm (41.87inch)
+T2      0.508mm (20mil)                                           Round             46        PTH        112.87mm (4.44inch)
+T3      0.6mm (24mil)                                             Slot              4         PTH        36.99mm (1.46inch)
+T4      0.67mm (26mil)                                            Round             2         PTH        16.40mm (0.65inch)
+T5      0.75mm (30mil)                                            Round             4         PTH        35.72mm (1.41inch)
+T6      2.5mm (98mil)                                             Round             4         PTH        159.91mm (6.30inch)
+T7      0.65mm (26mil)                                            Round             2         NPTH       5.78mm (0.23inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              692
+
+Total Processing Time (hh:mm:ss) : 00:00:00

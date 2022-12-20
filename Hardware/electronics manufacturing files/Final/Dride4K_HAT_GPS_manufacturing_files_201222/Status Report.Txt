@@ -1,0 +1,31 @@
+Output: Gerber Files
+Type  : Gerber
+From  : PCB Document [GPS_REV0.5.PcbDoc]
+   Generated File[GPS_REV0.5.GTO]
+   Generated File[GPS_REV0.5.GTP]
+   Generated File[GPS_REV0.5.GTS]
+   Generated File[GPS_REV0.5.GTL]
+   Generated File[GPS_REV0.5.G1]
+   Generated File[GPS_REV0.5.G2]
+   Generated File[GPS_REV0.5.G3]
+   Generated File[GPS_REV0.5.G4]
+   Generated File[GPS_REV0.5.GBL]
+   Generated File[GPS_REV0.5.GBS]
+   Generated File[GPS_REV0.5.GBP]
+   Generated File[GPS_REV0.5.GBO]
+   Generated File[GPS_REV0.5.GM5]
+   Generated File[GPS_REV0.5.GM6]
+   Generated File[GPS_REV0.5.GKO]
+   Generated File[GPS_REV0.5.GPT]
+   Generated File[GPS_REV0.5.GPB]
+   Generated File[GPS_REV0.5.GD1]
+   Generated File[GPS_REV0.5.GG1]
+   Generated File[GPS_REV0.5.RUL]
+   Generated File[GPS_REV0.5.EXTREP]
+   Generated File[GPS_REV0.5.REP]
+
+
+Files Generated   : 22
+Documents Printed : 0
+
+Finished Output Generation At 5:18:53 PM On 12/20/2022

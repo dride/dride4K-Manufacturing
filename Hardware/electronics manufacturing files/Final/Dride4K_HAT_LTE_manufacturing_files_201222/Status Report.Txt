@@ -1,0 +1,10 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [Production] of PCB Document [LTE_REV05.PcbDoc]
+   Generated File[Pick Place for LTE_REV05(Production).txt]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 5:15:55 PM On 12/20/2022

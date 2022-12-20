@@ -1,0 +1,538 @@
+*************************************************************
+FileName = GPS_REV0.5.GBR
+AutoAperture = True
+*************************************************************
+Generating : L4(SIGNAL)
+      File : GPS_REV0.5.G3
+
+    Adding Layer      : L4(SIGNAL)
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D32
+    D56
+    D63
+    D69
+    D70
+    D71
+    D72
+    D73
+    D75
+    D76
+*************************************************************
+
+*************************************************************
+Generating : L5(POWER)
+      File : GPS_REV0.5.G4
+
+    Adding Layer      : L5(POWER)
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D63
+    D69
+    D70
+    D71
+    D75
+*************************************************************
+
+*************************************************************
+Generating : L3(SIGNAL)
+      File : GPS_REV0.5.G2
+
+    Adding Layer      : L3(SIGNAL)
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D32
+    D56
+    D65
+    D69
+    D70
+    D71
+    D75
+    D76
+    D77
+*************************************************************
+
+*************************************************************
+Generating : L6
+      File : GPS_REV0.5.GBL
+
+    Adding Layer      : L6
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D18
+    D21
+    D25
+    D32
+    D56
+    D58
+    D59
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+    D90
+    D91
+    D92
+    D93
+    D94
+    D95
+    D96
+    D97
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : GPS_REV0.5.GPB
+
+    Adding Layer      : L6
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D18
+    D21
+    D25
+    D58
+    D59
+    D62
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+    D90
+    D91
+    D92
+    D93
+    D94
+    D95
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : GPS_REV0.5.GPT
+
+    Adding Layer      : L1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D18
+    D19
+    D20
+    D21
+    D25
+    D26
+    D27
+    D28
+    D30
+    D31
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : GPS_REV0.5.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Top Assembly
+      File : GPS_REV0.5.GM5
+
+    Adding Layer      : Top Assembly
+
+
+Used DCodes :
+    D10
+    D12
+    D13
+    D65
+    D117
+    D118
+    D119
+    D120
+    D121
+    D122
+    D123
+    D124
+    D125
+    D126
+    D127
+    D128
+    D129
+    D130
+    D131
+    D132
+    D133
+    D134
+    D135
+    D136
+*************************************************************
+
+*************************************************************
+Generating : Bottom Assembly
+      File : GPS_REV0.5.GM6
+
+    Adding Layer      : Bottom Assembly
+
+
+Used DCodes :
+    D10
+    D12
+    D14
+    D15
+    D65
+    D117
+*************************************************************
+
+*************************************************************
+Generating : L2(GND)
+      File : GPS_REV0.5.G1
+
+    Adding Layer      : L2(GND)
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D69
+    D70
+    D71
+    D72
+    D73
+    D75
+    D76
+*************************************************************
+
+*************************************************************
+Generating : L1
+      File : GPS_REV0.5.GTL
+
+    Adding Layer      : L1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D18
+    D19
+    D20
+    D21
+    D25
+    D26
+    D27
+    D28
+    D30
+    D31
+    D32
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : GPS_REV0.5.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : GPS_REV0.5.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : L1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : GPS_REV0.5.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : L1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D28
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : GPS_REV0.5.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : L6
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D32
+    D33
+    D36
+    D38
+    D39
+    D41
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D98
+    D99
+    D100
+    D101
+    D102
+    D103
+    D104
+    D105
+    D106
+    D107
+    D108
+    D109
+    D110
+    D111
+    D112
+    D113
+    D114
+    D115
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : GPS_REV0.5.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : L6
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D18
+    D21
+    D23
+    D25
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+    D90
+    D91
+    D92
+    D93
+    D94
+    D95
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : GPS_REV0.5.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D10
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D65
+    D116
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : GPS_REV0.5.GD1
+
+    Adding Drill Pair : L1-L6
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D13
+    D64
+    D65
+    D137
+    D138
+    D139
+    D140
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : GPS_REV0.5.GG1
+
+    Adding Drill Pair : L1-L6
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D13
+    D137
+*************************************************************
+
