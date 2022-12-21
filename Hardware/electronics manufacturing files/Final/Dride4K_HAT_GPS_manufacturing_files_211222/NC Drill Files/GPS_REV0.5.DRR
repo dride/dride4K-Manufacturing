@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: GPS_REV0.5.PcbDoc   12/21/2022  10:10:12 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : L1 to L6
+ASCII RoundHoles File : GPS_REV0.5-RoundHoles.TXT
+ASCII SlotHoles File : GPS_REV0.5-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      10mil (0.254mm)                                           Round             586       PTH        40.80inch (1036.29mm)
+T2      24mil (0.6mm)                                             Slot              4         PTH        1.46inch (36.99mm)
+T3      26mil (0.67mm)                                            Round             2         PTH        0.65inch (16.40mm)
+T4      30mil (0.75mm)                                            Round             4         PTH        1.41inch (35.72mm)
+T5      98mil (2.5mm)                                             Round             2         PTH        0.76inch (19.40mm)
+T6      106mil (2.7mm)                                            Round             2         PTH        1.00inch (25.53mm)
+T7      26mil (0.65mm)                                            Round             2         NPTH       0.23inch (5.78mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              602
+
+Total Processing Time (hh:mm:ss) : 00:00:00
